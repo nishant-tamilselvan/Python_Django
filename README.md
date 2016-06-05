@@ -3,7 +3,7 @@ A web application designed on Django 1.9 and Python 2.7 - A Fully functional Mat
 
 ##Project Installation
 
-Install all pulging in https://github.com/nishant-tamilselvan/Python_Django/blob/master/djangoProject/README.md
+Install all pulgins in https://github.com/nishant-tamilselvan/Python_Django/blob/master/djangoProject/README.md
 
 Link to Root project folder: https://github.com/nishant-tamilselvan/Python_Django/tree/master/djangoProject
 
